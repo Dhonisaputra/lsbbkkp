@@ -1,0 +1,112 @@
+body
+{
+	/*overflow: hidden; */
+}
+.mdl-layout--background
+{
+	background: #22313F !important;
+	color: white;
+}
+
+.mdl-navigation__link
+{
+	color: white !important;
+}
+
+/*background ===============================*/
+.container-system
+{
+	height: 100vh;
+	width: 100%;
+	border-radius: 0px;
+	border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+.container-content
+{
+	/*margin-top: 10px;*/
+	overflow: auto;
+	height: 100vh;
+}
+
+[role="tab"], .btn, th
+{
+	text-transform: uppercase !important;
+}
+.table
+{
+	width: 100% !important;
+}
+	.table.dataTable thead
+	{
+		background-color: #59ABE3 !important;
+		color: white !important;
+	}
+	.dataTable thead .sorting_asc 
+	{
+		color: white;
+	}
+
+	.table.dataTable thead th
+	{
+	}
+
+/*NOTIFICATION*/
+.popover-content-notification
+{
+	background: white;
+}
+.notification-item:not(.isShown)
+{
+	background-color: #ececf1;
+
+}
+	.notification-item .notification-content--text
+	{
+		width:320px;
+		padding: 7px;
+	}
+/*end background ==========================*/
+
+@media only screen and (max-device-width: 767px)
+{
+	.sm-container-full, .xs-container-full
+	{
+		margin-left:0px !important;
+		margin-right:0px !important;
+		padding-right:0px !important;
+		padding-left:0px !important;
+	}
+}
+
+.mdl-layout__drawer-button
+{
+	display: flex !important;
+
+	justify-content: center !important;
+
+	align-items: center !important;
+
+}
+
+/*POPOVER*/
+@media only screen and (max-device-width: 767px)
+{
+	.mdl-layout__header-row .popover
+	{
+		width: 100% !important;
+		max-width: 100% !important;
+		height: 100vh !important;
+		max-height: 100vh !important;
+	}
+	
+}
+@media only screen and (min-device-width: 768px)
+{
+	.mdl-layout__header-row .popover
+	{
+		width: 40% !important;
+		max-width: 40% !important;
+	}
+	
+}

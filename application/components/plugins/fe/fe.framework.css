@@ -1,0 +1,24 @@
+
+.div-round
+{
+	height: 30px;
+	width: 30px;
+	position: relative;
+	border-radius: 50%;
+	background: #C3BFBF;
+}
+.div-round--content
+{
+	
+	width: 100%;
+	height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-round--subcontent
+{
+	margin-top: 5px;
+	min-height: 10px;
+	width: 100%;
+}

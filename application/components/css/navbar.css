@@ -1,0 +1,207 @@
+/*navbar*/
+
+.navbar-primary
+{
+	color: #fff;
+    background-color: #337ab7 !important;
+    border-color: #337ab7
+}
+.navbar-primary button
+{
+	color: white !important;
+}
+
+.navbar-system
+{
+	background-color: white;
+	z-index: 999;
+	border-radius: 0px;
+	border-right: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	overflow-y: auto;
+    overflow-x: hidden; 
+}
+
+.navbar-fixed-top
+{	
+	position: fixed !important;
+}
+
+.navbar-fixed-bottom
+{	
+	position: fixed !important;
+}
+
+.navbar-mobile
+{
+	position: fixed;
+	height: 100%;
+
+}
+
+.navbar-system, .navbar-system .navbar-system--heading
+{
+	border-radius: 0px;
+}
+.navbar-system .navbar-system--heading
+{
+	height: 60px;
+	background-color: white;
+}
+
+.navbar-system .list-group-link
+{
+	margin-bottom: 0px;
+}
+
+.navbar-system .list-item-link
+{
+	width: 100%;
+	min-height: 60px;
+	margin: 0px;
+	border-radius: 0px;
+}
+.navbar-system .heading-item
+{
+	display: inline-block;
+}
+
+.navbar-system .list-item-link--top
+{
+	text-align: right !important;
+}
+.navbar-system .list-item-link
+{
+	padding: 20px 25px; 
+}
+.navbar-system .heading-url
+{
+	font-size: 20px;
+	color: #656363;
+	font-family: 'Roboto Condensed';
+	display: block;
+}
+.navbar-system .small-url
+{
+	font-size: 14px;
+	color: #656363;
+	font-family: 'Roboto Condensed';
+	display: block;
+}
+.navbar-system .nav-icon
+{
+	height: 100%;
+	color: #333;
+	position: relative;
+	font-size: 30px;
+	width: 40px;
+}
+.navbar-system .nav-icon
+{
+	border-left: 1px solid #ddd;
+}
+.navbar-system .nav-icon .glyphicon
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+@media only screen and (max-device-width: 1199px)
+{
+	.navbar-system
+	{
+	    overflow-y: auto;
+	    max-height: 100vh;
+		position: absolute;
+		right: 0px;
+		top: 70px;
+	}
+
+
+	.active .list-group-link, .active.navbar-system #admin-profile
+	{
+		display: inherit;
+	}
+
+	.navbar-system:not(.active)
+	{
+		border-bottom: 1px solid #ddd;
+		width: 50px !important;
+	}
+	.navbar-system:not(.active), .navbar-system:not(.active) .navbar-system--heading
+	{
+		border-bottom-left-radius: 4px;
+		border-top-left-radius: 4px;
+	}
+
+	.active.navbar-system
+	{
+		top:0px;
+	}
+	.list-group-link, .navbar-system #admin-profile
+	{
+		display: none;		
+	}
+} 
+
+@media only screen and (max-device-width: 767px)
+{
+	
+	.active.navbar-system
+	{
+		height: 100vh;
+		position: fixed;
+
+	}
+	.navbar-system:not(.active) .nav-icon
+	{
+		border-left: none;
+	}
+
+}
+
+@media only screen and (min-device-width: 1200px)
+{
+	
+	.navbar-system
+	{
+		height: 100%;
+	}
+	.navbar-system  .list-group-item
+	{
+		border-left: none;
+		border-right: none;
+		border-top: none;
+	}
+
+}
+
+
+/*
+	navbar in element section
+	ini bukan sebagai main navigation bar.
+*/
+section.navbar
+{
+	height: 30px;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+    margin-right: -15px;
+    margin-left: -15px;
+    border-radius: 0px !important;
+
+    position: relative;
+    padding: 5px 15px;
+    margin-bottom: -1px;
+    background-color: #fff !important;
+    display: block;
+}
+
+
+section.navbar.navbar-fluid
+{
+	margin-right: 0px !important;
+	margin-left: 0px !important;
+}

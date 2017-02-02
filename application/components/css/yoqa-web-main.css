@@ -1,0 +1,250 @@
+.mdl-layout__container
+{
+	position: inherit !important;
+	height: inherit !important;
+}
+.mdl-layout
+{
+	height: initial !important;
+}
+.web-component--navbar
+{
+	box-shadow: 1px 0px 2px #22313F !important;;
+}
+.web-component--header
+{
+	background: #f5f5f5;
+    background: -moz-linear-gradient(top,#fafafa,#f5f5f5);
+    background: -webkit-linear-gradient(top,#fafafa,#f5f5f5);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0,#fafafa),color-stop(1,#f5f5f5));
+    height: auto !important;
+    padding-bottom: 10px !important;
+}
+.web-component--menu
+{
+	background: white !important;
+}
+.mdl-navigation a
+{
+	color: #22313F !important;
+	font-family: 'Roboto';
+	font-size: 14px;
+
+}
+.paragraph-spacing-default
+{
+	line-height: 1.2;
+}
+.content-grid
+{
+	margin: 0px !important;
+	padding: 0px !important;
+}
+#content-1>div
+{
+	background-color: #4183D7;
+	padding-bottom: 35px !important;
+	padding-top: 35px !important;
+	color: white;
+}
+#content-1-image
+{
+	background-image: url('http://www.avrv.gr/wp-content/uploads/2013/06/08_ManagementSystemCertification.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+#content-2
+{
+	margin-top: 35px !important;
+}
+#content-3
+{
+	background-color: #4183D7;
+	color: white;
+	padding-bottom: 40px;
+	margin-top: 50px;
+}
+#content-4
+{
+	margin-top: 50px;
+	min-height: 200px;
+
+}
+#content-5
+{
+	min-height: 50px;
+	background-color: #22313F;
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+	#content-5 .content-title
+	{
+		font-size: 23px !important;
+
+	}
+#content-6
+{
+	background-color: #4183D7;
+	padding-top: 50px;
+
+	padding-bottom: 50px;
+
+}
+
+.roboto
+{
+	font-family: 'Roboto Condensed';
+}
+	.light-roboto
+	{
+		font-family: 'Roboto Condensed';
+	    font-weight: 300;
+	}
+
+.content
+{
+	font-family: 'Roboto Condensed';
+
+}
+	.content-title
+	{
+		font-size: 33px;
+	    font-weight: 300;
+	}
+	.content-text
+	{
+		line-height: 1.8;
+		font-size: 15px;
+		margin-top: 10px;
+	}
+.mdl-card .content-text
+{
+	margin-bottom: 20px;
+}
+.section
+{
+
+}
+	.section .section-title
+	{
+	    font-size: 40px;
+	    font-weight: 300;
+	}
+	.section .section-subtitle
+	{
+		font-size: 20px;
+	    font-weight: 300;
+
+	}
+
+.flex
+{
+	display: flex;
+}
+	.flex-center
+	{
+		justify-content: center !important;
+	}
+	.flex-distributed
+	{
+		align-items: center !important;
+	}
+	.flex-space-around
+	{
+		justify-content: space-around !important;
+	}
+
+.layanan-group
+{
+	justify-content: space-between;
+}
+	.layanan-group-item
+	{
+		padding-bottom: 40px;
+	}
+	.layanan-thumbnail
+	{
+		background-size: cover;
+		height: 200px;
+		width: 100%;
+	}
+	
+
+
+.btn-next-section
+{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.type-sertifikasi
+{
+
+	/*padding: 20px;
+	border-radius: 50%;
+	width: 250px;
+	height: 250px;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	display: flex;
+	position: relative;
+	color: white;*/
+	/*box-shadow: 0px 1px 5px 2px gray;*/
+	/*border: solid 3px transparent;*/
+}
+.text-type-sertifikasi
+{
+	color: white !important;
+	z-index: 3;
+}
+.type-sertifikasi span
+{
+	z-index: 3;
+	color: white;
+}
+.type-sertifikasi .type-sertifikasi--2nd-layer
+{
+	background-color: rgba(0,0,0,.5);
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	z-index: 2;
+	position: absolute;
+}
+.type-sertifikasi--content:before
+{
+	content: " ";
+	width: 100%;
+	height: 100%;
+	background-color: white;
+	-webkit-filter: blur(1px);
+	filter: blur(1px);
+	position: fixed;
+}
+
+.type-sertifikasi:before
+{
+	/*content: " ";
+	background-size: cover;
+	background-repeat: no-repeat;*/
+	/*-webkit-filter: grayscale(1);*/
+	/*-moz-filter: grayscale(1);*/
+	/*-o-filter: grayscale(1);*/
+	/*-ms-filter: grayscale(1);*/
+	/*filter: grayscale(1);*/
+	/*position: absolute;*/
+	/*width: 100%;*/
+	/*height: 100%;*/
+	/*border-radius: 50%;*/
+	/*background-position: center; 
+	z-index: 1;*/
+}
+
+
+.text-white
+{
+	color: white !important;
+}
