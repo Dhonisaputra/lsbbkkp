@@ -1,0 +1,1681 @@
+{
+  "62": [{
+    "name": "aceh",
+    "label": "Aceh",
+    "regencies": [{
+      "name": "simeulue",
+      "label": "Simeulue"
+    }, {
+      "name": "aceh-singkil",
+      "label": "Aceh Singkil"
+    }, {
+      "name": "aceh-selatan",
+      "label": "Aceh Selatan"
+    }, {
+      "name": "aceh-tenggara",
+      "label": "Aceh Tenggara"
+    }, {
+      "name": "aceh-timur",
+      "label": "Aceh Timur"
+    }, {
+      "name": "aceh-tengah",
+      "label": "Aceh Tengah"
+    }, {
+      "name": "aceh-barat",
+      "label": "Aceh Barat"
+    }, {
+      "name": "aceh-besar",
+      "label": "Aceh Besar"
+    }, {
+      "name": "pidie",
+      "label": "Pidie"
+    }, {
+      "name": "bireuen",
+      "label": "Bireuen"
+    }, {
+      "name": "aceh-utara",
+      "label": "Aceh Utara"
+    }, {
+      "name": "aceh-barat-daya",
+      "label": "Aceh Barat Daya"
+    }, {
+      "name": "gayo-lues",
+      "label": "Gayo Lues"
+    }, {
+      "name": "aceh-tamiang",
+      "label": "Aceh Tamiang"
+    }, {
+      "name": "nagan-raya",
+      "label": "Nagan Raya"
+    }, {
+      "name": "aceh-jaya",
+      "label": "Aceh Jaya"
+    }, {
+      "name": "bener-meriah",
+      "label": "Bener Meriah"
+    }, {
+      "name": "pidie-jaya",
+      "label": "Pidie Jaya"
+    }, {
+      "name": "banda-aceh",
+      "label": "Banda Aceh"
+    }, {
+      "name": "sabang",
+      "label": "Sabang"
+    }, {
+      "name": "langsa",
+      "label": "Langsa"
+    }, {
+      "name": "lhokseumawe",
+      "label": "Lhokseumawe"
+    }, {
+      "name": "subulussalam",
+      "label": "Subulussalam"
+    }]
+  }, {
+    "name": "sumatera-utara",
+    "label": "Sumatera Utara",
+    "regencies": [{
+      "name": "nias",
+      "label": "Nias"
+    }, {
+      "name": "mandailing-natal",
+      "label": "Mandailing Natal"
+    }, {
+      "name": "tapanuli-selatan",
+      "label": "Tapanuli Selatan"
+    }, {
+      "name": "tapanuli-tengah",
+      "label": "Tapanuli Tengah"
+    }, {
+      "name": "tapanuli-utara",
+      "label": "Tapanuli Utara"
+    }, {
+      "name": "toba-samosir",
+      "label": "Toba Samosir"
+    }, {
+      "name": "labuhan-batu",
+      "label": "Labuhan Batu"
+    }, {
+      "name": "asahan",
+      "label": "Asahan"
+    }, {
+      "name": "simalungun",
+      "label": "Simalungun"
+    }, {
+      "name": "dairi",
+      "label": "Dairi"
+    }, {
+      "name": "karo",
+      "label": "Karo"
+    }, {
+      "name": "deli-serdang",
+      "label": "Deli Serdang"
+    }, {
+      "name": "langkat",
+      "label": "Langkat"
+    }, {
+      "name": "nias-selatan",
+      "label": "Nias Selatan"
+    }, {
+      "name": "humbang-hasundutan",
+      "label": "Humbang Hasundutan"
+    }, {
+      "name": "pakpak-bharat",
+      "label": "Pakpak Bharat"
+    }, {
+      "name": "samosir",
+      "label": "Samosir"
+    }, {
+      "name": "serdang-bedagai",
+      "label": "Serdang Bedagai"
+    }, {
+      "name": "batu-bara",
+      "label": "Batu Bara"
+    }, {
+      "name": "padang-lawas-utara",
+      "label": "Padang Lawas Utara"
+    }, {
+      "name": "padang-lawas",
+      "label": "Padang Lawas"
+    }, {
+      "name": "labuhan-batu-selatan",
+      "label": "Labuhan Batu Selatan"
+    }, {
+      "name": "labuhan-batu-utara",
+      "label": "Labuhan Batu Utara"
+    }, {
+      "name": "nias-utara",
+      "label": "Nias Utara"
+    }, {
+      "name": "nias-barat",
+      "label": "Nias Barat"
+    }, {
+      "name": "sibolga",
+      "label": "Sibolga"
+    }, {
+      "name": "tanjung-balai",
+      "label": "Tanjung Balai"
+    }, {
+      "name": "pematang-siantar",
+      "label": "Pematang Siantar"
+    }, {
+      "name": "tebing-tinggi",
+      "label": "Tebing Tinggi"
+    }, {
+      "name": "medan",
+      "label": "Medan"
+    }, {
+      "name": "binjai",
+      "label": "Binjai"
+    }, {
+      "name": "padangsidimpuan",
+      "label": "Padangsidimpuan"
+    }, {
+      "name": "gunungsitoli",
+      "label": "Gunungsitoli"
+    }]
+  }, {
+    "name": "sumatera-barat",
+    "label": "Sumatera Barat",
+    "regencies": [{
+      "name": "kepulauan-mentawai",
+      "label": "Kepulauan Mentawai"
+    }, {
+      "name": "pesisir-selatan",
+      "label": "Pesisir Selatan"
+    }, {
+      "name": "solok",
+      "label": "Solok"
+    }, {
+      "name": "sijunjung",
+      "label": "Sijunjung"
+    }, {
+      "name": "tanah-datar",
+      "label": "Tanah Datar"
+    }, {
+      "name": "padang-pariaman",
+      "label": "Padang Pariaman"
+    }, {
+      "name": "agam",
+      "label": "Agam"
+    }, {
+      "name": "lima-puluh-kota",
+      "label": "Lima Puluh Kota"
+    }, {
+      "name": "pasaman",
+      "label": "Pasaman"
+    }, {
+      "name": "solok-selatan",
+      "label": "Solok Selatan"
+    }, {
+      "name": "dharmasraya",
+      "label": "Dharmasraya"
+    }, {
+      "name": "pasaman-barat",
+      "label": "Pasaman Barat"
+    }, {
+      "name": "padang",
+      "label": "Padang"
+    }, {
+      "name": "solok",
+      "label": "Solok"
+    }, {
+      "name": "sawah-lunto",
+      "label": "Sawah Lunto"
+    }, {
+      "name": "padang-panjang",
+      "label": "Padang Panjang"
+    }, {
+      "name": "bukittinggi",
+      "label": "Bukittinggi"
+    }, {
+      "name": "payakumbuh",
+      "label": "Payakumbuh"
+    }, {
+      "name": "pariaman",
+      "label": "Pariaman"
+    }]
+  }, {
+    "name": "riau",
+    "label": "Riau",
+    "regencies": [{
+      "name": "kuantan-singingi",
+      "label": "Kuantan Singingi"
+    }, {
+      "name": "indragiri-hulu",
+      "label": "Indragiri Hulu"
+    }, {
+      "name": "indragiri-hilir",
+      "label": "Indragiri Hilir"
+    }, {
+      "name": "pelalawan",
+      "label": "Pelalawan"
+    }, {
+      "name": "siak",
+      "label": "Siak"
+    }, {
+      "name": "kampar",
+      "label": "Kampar"
+    }, {
+      "name": "rokan-hulu",
+      "label": "Rokan Hulu"
+    }, {
+      "name": "bengkalis",
+      "label": "Bengkalis"
+    }, {
+      "name": "rokan-hilir",
+      "label": "Rokan Hilir"
+    }, {
+      "name": "kepulauan-meranti",
+      "label": "Kepulauan Meranti"
+    }, {
+      "name": "pekanbaru",
+      "label": "Pekanbaru"
+    }, {
+      "name": "dumai",
+      "label": "Dumai"
+    }]
+  }, {
+    "name": "jambi",
+    "label": "Jambi",
+    "regencies": [{
+      "name": "kerinci",
+      "label": "Kerinci"
+    }, {
+      "name": "merangin",
+      "label": "Merangin"
+    }, {
+      "name": "sarolangun",
+      "label": "Sarolangun"
+    }, {
+      "name": "batang-hari",
+      "label": "Batang Hari"
+    }, {
+      "name": "muaro-jambi",
+      "label": "Muaro Jambi"
+    }, {
+      "name": "tanjung-jabung-timur",
+      "label": "Tanjung Jabung Timur"
+    }, {
+      "name": "tanjung-jabung-barat",
+      "label": "Tanjung Jabung Barat"
+    }, {
+      "name": "tebo",
+      "label": "Tebo"
+    }, {
+      "name": "bungo",
+      "label": "Bungo"
+    }, {
+      "name": "jambi",
+      "label": "Jambi"
+    }, {
+      "name": "sungai-penuh",
+      "label": "Sungai Penuh"
+    }]
+  }, {
+    "name": "sumatera-selatan",
+    "label": "Sumatera Selatan",
+    "regencies": [{
+      "name": "ogan-komering-ulu",
+      "label": "Ogan Komering Ulu"
+    }, {
+      "name": "ogan-komering-ilir",
+      "label": "Ogan Komering Ilir"
+    }, {
+      "name": "muara-enim",
+      "label": "Muara Enim"
+    }, {
+      "name": "lahat",
+      "label": "Lahat"
+    }, {
+      "name": "musi-rawas",
+      "label": "Musi Rawas"
+    }, {
+      "name": "musi-banyuasin",
+      "label": "Musi Banyuasin"
+    }, {
+      "name": "banyu-asin",
+      "label": "Banyu Asin"
+    }, {
+      "name": "ogan-komering-ulu-selatan",
+      "label": "Ogan Komering Ulu Selatan"
+    }, {
+      "name": "ogan-komering-ulu-timur",
+      "label": "Ogan Komering Ulu Timur"
+    }, {
+      "name": "ogan-ilir",
+      "label": "Ogan Ilir"
+    }, {
+      "name": "empat-lawang",
+      "label": "Empat Lawang"
+    }, {
+      "name": "penukal-abab-lematang-ilir",
+      "label": "Penukal Abab Lematang Ilir"
+    }, {
+      "name": "musi-rawas-utara",
+      "label": "Musi Rawas Utara"
+    }, {
+      "name": "palembang",
+      "label": "Palembang"
+    }, {
+      "name": "prabumulih",
+      "label": "Prabumulih"
+    }, {
+      "name": "pagar-alam",
+      "label": "Pagar Alam"
+    }, {
+      "name": "lubuklinggau",
+      "label": "Lubuklinggau"
+    }]
+  }, {
+    "name": "bengkulu",
+    "label": "Bengkulu",
+    "regencies": [{
+      "name": "bengkulu-selatan",
+      "label": "Bengkulu Selatan"
+    }, {
+      "name": "rejang-lebong",
+      "label": "Rejang Lebong"
+    }, {
+      "name": "bengkulu-utara",
+      "label": "Bengkulu Utara"
+    }, {
+      "name": "kaur",
+      "label": "Kaur"
+    }, {
+      "name": "seluma",
+      "label": "Seluma"
+    }, {
+      "name": "mukomuko",
+      "label": "Mukomuko"
+    }, {
+      "name": "lebong",
+      "label": "Lebong"
+    }, {
+      "name": "kepahiang",
+      "label": "Kepahiang"
+    }, {
+      "name": "bengkulu-tengah",
+      "label": "Bengkulu Tengah"
+    }, {
+      "name": "bengkulu",
+      "label": "Bengkulu"
+    }]
+  }, {
+    "name": "lampung",
+    "label": "Lampung",
+    "regencies": [{
+      "name": "lampung-barat",
+      "label": "Lampung Barat"
+    }, {
+      "name": "tanggamus",
+      "label": "Tanggamus"
+    }, {
+      "name": "lampung-selatan",
+      "label": "Lampung Selatan"
+    }, {
+      "name": "lampung-timur",
+      "label": "Lampung Timur"
+    }, {
+      "name": "lampung-tengah",
+      "label": "Lampung Tengah"
+    }, {
+      "name": "lampung-utara",
+      "label": "Lampung Utara"
+    }, {
+      "name": "way-kanan",
+      "label": "Way Kanan"
+    }, {
+      "name": "tulangbawang",
+      "label": "Tulangbawang"
+    }, {
+      "name": "pesawaran",
+      "label": "Pesawaran"
+    }, {
+      "name": "pringsewu",
+      "label": "Pringsewu"
+    }, {
+      "name": "mesuji",
+      "label": "Mesuji"
+    }, {
+      "name": "tulang-bawang-barat",
+      "label": "Tulang Bawang Barat"
+    }, {
+      "name": "pesisir-barat",
+      "label": "Pesisir Barat"
+    }, {
+      "name": "bandar-lampung",
+      "label": "Bandar Lampung"
+    }, {
+      "name": "metro",
+      "label": "Metro"
+    }]
+  }, {
+    "name": "kepulauan-bangka-belitung",
+    "label": "Kepulauan Bangka Belitung",
+    "regencies": [{
+      "name": "bangka",
+      "label": "Bangka"
+    }, {
+      "name": "belitung",
+      "label": "Belitung"
+    }, {
+      "name": "bangka-barat",
+      "label": "Bangka Barat"
+    }, {
+      "name": "bangka-tengah",
+      "label": "Bangka Tengah"
+    }, {
+      "name": "bangka-selatan",
+      "label": "Bangka Selatan"
+    }, {
+      "name": "belitung-timur",
+      "label": "Belitung Timur"
+    }, {
+      "name": "pangkal-pinang",
+      "label": "Pangkal Pinang"
+    }]
+  }, {
+    "name": "kepulauan-riau",
+    "label": "Kepulauan Riau",
+    "regencies": [{
+      "name": "karimun",
+      "label": "Karimun"
+    }, {
+      "name": "bintan",
+      "label": "Bintan"
+    }, {
+      "name": "natuna",
+      "label": "Natuna"
+    }, {
+      "name": "lingga",
+      "label": "Lingga"
+    }, {
+      "name": "kepulauan-anambas",
+      "label": "Kepulauan Anambas"
+    }, {
+      "name": "batam",
+      "label": "Batam"
+    }, {
+      "name": "tanjung-pinang",
+      "label": "Tanjung Pinang"
+    }]
+  }, {
+    "name": "dki-jakarta",
+    "label": "Dki Jakarta",
+    "regencies": [{
+      "name": "kepulauan-seribu",
+      "label": "Kepulauan Seribu"
+    }, {
+      "name": "jakarta-selatan",
+      "label": "Jakarta Selatan"
+    }, {
+      "name": "jakarta-timur",
+      "label": "Jakarta Timur"
+    }, {
+      "name": "jakarta-pusat",
+      "label": "Jakarta Pusat"
+    }, {
+      "name": "jakarta-barat",
+      "label": "Jakarta Barat"
+    }, {
+      "name": "jakarta-utara",
+      "label": "Jakarta Utara"
+    }]
+  }, {
+    "name": "jawa-barat",
+    "label": "Jawa Barat",
+    "regencies": [{
+      "name": "bogor",
+      "label": "Bogor"
+    }, {
+      "name": "sukabumi",
+      "label": "Sukabumi"
+    }, {
+      "name": "cianjur",
+      "label": "Cianjur"
+    }, {
+      "name": "bandung",
+      "label": "Bandung"
+    }, {
+      "name": "garut",
+      "label": "Garut"
+    }, {
+      "name": "tasikmalaya",
+      "label": "Tasikmalaya"
+    }, {
+      "name": "ciamis",
+      "label": "Ciamis"
+    }, {
+      "name": "kuningan",
+      "label": "Kuningan"
+    }, {
+      "name": "cirebon",
+      "label": "Cirebon"
+    }, {
+      "name": "majalengka",
+      "label": "Majalengka"
+    }, {
+      "name": "sumedang",
+      "label": "Sumedang"
+    }, {
+      "name": "indramayu",
+      "label": "Indramayu"
+    }, {
+      "name": "subang",
+      "label": "Subang"
+    }, {
+      "name": "purwakarta",
+      "label": "Purwakarta"
+    }, {
+      "name": "karawang",
+      "label": "Karawang"
+    }, {
+      "name": "bekasi",
+      "label": "Bekasi"
+    }, {
+      "name": "bandung-barat",
+      "label": "Bandung Barat"
+    }, {
+      "name": "pangandaran",
+      "label": "Pangandaran"
+    }, {
+      "name": "bogor",
+      "label": "Bogor"
+    }, {
+      "name": "sukabumi",
+      "label": "Sukabumi"
+    }, {
+      "name": "bandung",
+      "label": "Bandung"
+    }, {
+      "name": "cirebon",
+      "label": "Cirebon"
+    }, {
+      "name": "bekasi",
+      "label": "Bekasi"
+    }, {
+      "name": "depok",
+      "label": "Depok"
+    }, {
+      "name": "cimahi",
+      "label": "Cimahi"
+    }, {
+      "name": "tasikmalaya",
+      "label": "Tasikmalaya"
+    }, {
+      "name": "banjar",
+      "label": "Banjar"
+    }]
+  }, {
+    "name": "jawa-tengah",
+    "label": "Jawa Tengah",
+    "regencies": [{
+      "name": "cilacap",
+      "label": "Cilacap"
+    }, {
+      "name": "banyumas",
+      "label": "Banyumas"
+    }, {
+      "name": "purbalingga",
+      "label": "Purbalingga"
+    }, {
+      "name": "banjarnegara",
+      "label": "Banjarnegara"
+    }, {
+      "name": "kebumen",
+      "label": "Kebumen"
+    }, {
+      "name": "purworejo",
+      "label": "Purworejo"
+    }, {
+      "name": "wonosobo",
+      "label": "Wonosobo"
+    }, {
+      "name": "magelang",
+      "label": "Magelang"
+    }, {
+      "name": "boyolali",
+      "label": "Boyolali"
+    }, {
+      "name": "klaten",
+      "label": "Klaten"
+    }, {
+      "name": "sukoharjo",
+      "label": "Sukoharjo"
+    }, {
+      "name": "wonogiri",
+      "label": "Wonogiri"
+    }, {
+      "name": "karanganyar",
+      "label": "Karanganyar"
+    }, {
+      "name": "sragen",
+      "label": "Sragen"
+    }, {
+      "name": "grobogan",
+      "label": "Grobogan"
+    }, {
+      "name": "blora",
+      "label": "Blora"
+    }, {
+      "name": "rembang",
+      "label": "Rembang"
+    }, {
+      "name": "pati",
+      "label": "Pati"
+    }, {
+      "name": "kudus",
+      "label": "Kudus"
+    }, {
+      "name": "jepara",
+      "label": "Jepara"
+    }, {
+      "name": "demak",
+      "label": "Demak"
+    }, {
+      "name": "semarang",
+      "label": "Semarang"
+    }, {
+      "name": "temanggung",
+      "label": "Temanggung"
+    }, {
+      "name": "kendal",
+      "label": "Kendal"
+    }, {
+      "name": "batang",
+      "label": "Batang"
+    }, {
+      "name": "pekalongan",
+      "label": "Pekalongan"
+    }, {
+      "name": "pemalang",
+      "label": "Pemalang"
+    }, {
+      "name": "tegal",
+      "label": "Tegal"
+    }, {
+      "name": "brebes",
+      "label": "Brebes"
+    }, {
+      "name": "magelang",
+      "label": "Magelang"
+    }, {
+      "name": "surakarta",
+      "label": "Surakarta"
+    }, {
+      "name": "salatiga",
+      "label": "Salatiga"
+    }, {
+      "name": "semarang",
+      "label": "Semarang"
+    }, {
+      "name": "pekalongan",
+      "label": "Pekalongan"
+    }, {
+      "name": "tegal",
+      "label": "Tegal"
+    }]
+  }, {
+    "name": "di-yogyakarta",
+    "label": "Di Yogyakarta",
+    "regencies": [{
+      "name": "kulon-progo",
+      "label": "Kulon Progo"
+    }, {
+      "name": "bantul",
+      "label": "Bantul"
+    }, {
+      "name": "gunung-kidul",
+      "label": "Gunung Kidul"
+    }, {
+      "name": "sleman",
+      "label": "Sleman"
+    }, {
+      "name": "yogyakarta",
+      "label": "Yogyakarta"
+    }]
+  }, {
+    "name": "jawa-timur",
+    "label": "Jawa Timur",
+    "regencies": [{
+      "name": "pacitan",
+      "label": "Pacitan"
+    }, {
+      "name": "ponorogo",
+      "label": "Ponorogo"
+    }, {
+      "name": "trenggalek",
+      "label": "Trenggalek"
+    }, {
+      "name": "tulungagung",
+      "label": "Tulungagung"
+    }, {
+      "name": "blitar",
+      "label": "Blitar"
+    }, {
+      "name": "kediri",
+      "label": "Kediri"
+    }, {
+      "name": "malang",
+      "label": "Malang"
+    }, {
+      "name": "lumajang",
+      "label": "Lumajang"
+    }, {
+      "name": "jember",
+      "label": "Jember"
+    }, {
+      "name": "banyuwangi",
+      "label": "Banyuwangi"
+    }, {
+      "name": "bondowoso",
+      "label": "Bondowoso"
+    }, {
+      "name": "situbondo",
+      "label": "Situbondo"
+    }, {
+      "name": "probolinggo",
+      "label": "Probolinggo"
+    }, {
+      "name": "pasuruan",
+      "label": "Pasuruan"
+    }, {
+      "name": "sidoarjo",
+      "label": "Sidoarjo"
+    }, {
+      "name": "mojokerto",
+      "label": "Mojokerto"
+    }, {
+      "name": "jombang",
+      "label": "Jombang"
+    }, {
+      "name": "nganjuk",
+      "label": "Nganjuk"
+    }, {
+      "name": "madiun",
+      "label": "Madiun"
+    }, {
+      "name": "magetan",
+      "label": "Magetan"
+    }, {
+      "name": "ngawi",
+      "label": "Ngawi"
+    }, {
+      "name": "bojonegoro",
+      "label": "Bojonegoro"
+    }, {
+      "name": "tuban",
+      "label": "Tuban"
+    }, {
+      "name": "lamongan",
+      "label": "Lamongan"
+    }, {
+      "name": "gresik",
+      "label": "Gresik"
+    }, {
+      "name": "bangkalan",
+      "label": "Bangkalan"
+    }, {
+      "name": "sampang",
+      "label": "Sampang"
+    }, {
+      "name": "pamekasan",
+      "label": "Pamekasan"
+    }, {
+      "name": "sumenep",
+      "label": "Sumenep"
+    }, {
+      "name": "kediri",
+      "label": "Kediri"
+    }, {
+      "name": "blitar",
+      "label": "Blitar"
+    }, {
+      "name": "malang",
+      "label": "Malang"
+    }, {
+      "name": "probolinggo",
+      "label": "Probolinggo"
+    }, {
+      "name": "pasuruan",
+      "label": "Pasuruan"
+    }, {
+      "name": "mojokerto",
+      "label": "Mojokerto"
+    }, {
+      "name": "madiun",
+      "label": "Madiun"
+    }, {
+      "name": "surabaya",
+      "label": "Surabaya"
+    }, {
+      "name": "batu",
+      "label": "Batu"
+    }]
+  }, {
+    "name": "banten",
+    "label": "Banten",
+    "regencies": [{
+      "name": "pandeglang",
+      "label": "Pandeglang"
+    }, {
+      "name": "lebak",
+      "label": "Lebak"
+    }, {
+      "name": "tangerang",
+      "label": "Tangerang"
+    }, {
+      "name": "serang",
+      "label": "Serang"
+    }, {
+      "name": "tangerang",
+      "label": "Tangerang"
+    }, {
+      "name": "cilegon",
+      "label": "Cilegon"
+    }, {
+      "name": "serang",
+      "label": "Serang"
+    }, {
+      "name": "tangerang-selatan",
+      "label": "Tangerang Selatan"
+    }]
+  }, {
+    "name": "bali",
+    "label": "Bali",
+    "regencies": [{
+      "name": "jembrana",
+      "label": "Jembrana"
+    }, {
+      "name": "tabanan",
+      "label": "Tabanan"
+    }, {
+      "name": "badung",
+      "label": "Badung"
+    }, {
+      "name": "gianyar",
+      "label": "Gianyar"
+    }, {
+      "name": "klungkung",
+      "label": "Klungkung"
+    }, {
+      "name": "bangli",
+      "label": "Bangli"
+    }, {
+      "name": "karang-asem",
+      "label": "Karang Asem"
+    }, {
+      "name": "buleleng",
+      "label": "Buleleng"
+    }, {
+      "name": "denpasar",
+      "label": "Denpasar"
+    }]
+  }, {
+    "name": "nusa-tenggara-barat",
+    "label": "Nusa Tenggara Barat",
+    "regencies": [{
+      "name": "lombok-barat",
+      "label": "Lombok Barat"
+    }, {
+      "name": "lombok-tengah",
+      "label": "Lombok Tengah"
+    }, {
+      "name": "lombok-timur",
+      "label": "Lombok Timur"
+    }, {
+      "name": "sumbawa",
+      "label": "Sumbawa"
+    }, {
+      "name": "dompu",
+      "label": "Dompu"
+    }, {
+      "name": "bima",
+      "label": "Bima"
+    }, {
+      "name": "sumbawa-barat",
+      "label": "Sumbawa Barat"
+    }, {
+      "name": "lombok-utara",
+      "label": "Lombok Utara"
+    }, {
+      "name": "mataram",
+      "label": "Mataram"
+    }, {
+      "name": "bima",
+      "label": "Bima"
+    }]
+  }, {
+    "name": "nusa-tenggara-timur",
+    "label": "Nusa Tenggara Timur",
+    "regencies": [{
+      "name": "sumba-barat",
+      "label": "Sumba Barat"
+    }, {
+      "name": "sumba-timur",
+      "label": "Sumba Timur"
+    }, {
+      "name": "kupang",
+      "label": "Kupang"
+    }, {
+      "name": "timor-tengah-selatan",
+      "label": "Timor Tengah Selatan"
+    }, {
+      "name": "timor-tengah-utara",
+      "label": "Timor Tengah Utara"
+    }, {
+      "name": "belu",
+      "label": "Belu"
+    }, {
+      "name": "alor",
+      "label": "Alor"
+    }, {
+      "name": "lembata",
+      "label": "Lembata"
+    }, {
+      "name": "flores-timur",
+      "label": "Flores Timur"
+    }, {
+      "name": "sikka",
+      "label": "Sikka"
+    }, {
+      "name": "ende",
+      "label": "Ende"
+    }, {
+      "name": "ngada",
+      "label": "Ngada"
+    }, {
+      "name": "manggarai",
+      "label": "Manggarai"
+    }, {
+      "name": "rote-ndao",
+      "label": "Rote Ndao"
+    }, {
+      "name": "manggarai-barat",
+      "label": "Manggarai Barat"
+    }, {
+      "name": "sumba-tengah",
+      "label": "Sumba Tengah"
+    }, {
+      "name": "sumba-barat-daya",
+      "label": "Sumba Barat Daya"
+    }, {
+      "name": "nagekeo",
+      "label": "Nagekeo"
+    }, {
+      "name": "manggarai-timur",
+      "label": "Manggarai Timur"
+    }, {
+      "name": "sabu-raijua",
+      "label": "Sabu Raijua"
+    }, {
+      "name": "malaka",
+      "label": "Malaka"
+    }, {
+      "name": "kupang",
+      "label": "Kupang"
+    }]
+  }, {
+    "name": "kalimantan-barat",
+    "label": "Kalimantan Barat",
+    "regencies": [{
+      "name": "sambas",
+      "label": "Sambas"
+    }, {
+      "name": "bengkayang",
+      "label": "Bengkayang"
+    }, {
+      "name": "landak",
+      "label": "Landak"
+    }, {
+      "name": "mempawah",
+      "label": "Mempawah"
+    }, {
+      "name": "sanggau",
+      "label": "Sanggau"
+    }, {
+      "name": "ketapang",
+      "label": "Ketapang"
+    }, {
+      "name": "sintang",
+      "label": "Sintang"
+    }, {
+      "name": "kapuas-hulu",
+      "label": "Kapuas Hulu"
+    }, {
+      "name": "sekadau",
+      "label": "Sekadau"
+    }, {
+      "name": "melawi",
+      "label": "Melawi"
+    }, {
+      "name": "kayong-utara",
+      "label": "Kayong Utara"
+    }, {
+      "name": "kubu-raya",
+      "label": "Kubu Raya"
+    }, {
+      "name": "pontianak",
+      "label": "Pontianak"
+    }, {
+      "name": "singkawang",
+      "label": "Singkawang"
+    }]
+  }, {
+    "name": "kalimantan-tengah",
+    "label": "Kalimantan Tengah",
+    "regencies": [{
+      "name": "kotawaringin-barat",
+      "label": "Kotawaringin Barat"
+    }, {
+      "name": "kotawaringin-timur",
+      "label": "Kotawaringin Timur"
+    }, {
+      "name": "kapuas",
+      "label": "Kapuas"
+    }, {
+      "name": "barito-selatan",
+      "label": "Barito Selatan"
+    }, {
+      "name": "barito-utara",
+      "label": "Barito Utara"
+    }, {
+      "name": "sukamara",
+      "label": "Sukamara"
+    }, {
+      "name": "lamandau",
+      "label": "Lamandau"
+    }, {
+      "name": "seruyan",
+      "label": "Seruyan"
+    }, {
+      "name": "katingan",
+      "label": "Katingan"
+    }, {
+      "name": "pulang-pisau",
+      "label": "Pulang Pisau"
+    }, {
+      "name": "gunung-mas",
+      "label": "Gunung Mas"
+    }, {
+      "name": "barito-timur",
+      "label": "Barito Timur"
+    }, {
+      "name": "murung-raya",
+      "label": "Murung Raya"
+    }, {
+      "name": "palangka-raya",
+      "label": "Palangka Raya"
+    }]
+  }, {
+    "name": "kalimantan-selatan",
+    "label": "Kalimantan Selatan",
+    "regencies": [{
+      "name": "tanah-laut",
+      "label": "Tanah Laut"
+    }, {
+      "name": "baru",
+      "label": "Baru"
+    }, {
+      "name": "banjar",
+      "label": "Banjar"
+    }, {
+      "name": "barito-kuala",
+      "label": "Barito Kuala"
+    }, {
+      "name": "tapin",
+      "label": "Tapin"
+    }, {
+      "name": "hulu-sungai-selatan",
+      "label": "Hulu Sungai Selatan"
+    }, {
+      "name": "hulu-sungai-tengah",
+      "label": "Hulu Sungai Tengah"
+    }, {
+      "name": "hulu-sungai-utara",
+      "label": "Hulu Sungai Utara"
+    }, {
+      "name": "tabalong",
+      "label": "Tabalong"
+    }, {
+      "name": "tanah-bumbu",
+      "label": "Tanah Bumbu"
+    }, {
+      "name": "balangan",
+      "label": "Balangan"
+    }, {
+      "name": "banjarmasin",
+      "label": "Banjarmasin"
+    }, {
+      "name": "banjar-baru",
+      "label": "Banjar Baru"
+    }]
+  }, {
+    "name": "kalimantan-timur",
+    "label": "Kalimantan Timur",
+    "regencies": [{
+      "name": "paser",
+      "label": "Paser"
+    }, {
+      "name": "kutai-barat",
+      "label": "Kutai Barat"
+    }, {
+      "name": "kutai-kartanegara",
+      "label": "Kutai Kartanegara"
+    }, {
+      "name": "kutai-timur",
+      "label": "Kutai Timur"
+    }, {
+      "name": "berau",
+      "label": "Berau"
+    }, {
+      "name": "penajam-paser-utara",
+      "label": "Penajam Paser Utara"
+    }, {
+      "name": "mahakam-hulu",
+      "label": "Mahakam Hulu"
+    }, {
+      "name": "balikpapan",
+      "label": "Balikpapan"
+    }, {
+      "name": "samarinda",
+      "label": "Samarinda"
+    }, {
+      "name": "bontang",
+      "label": "Bontang"
+    }]
+  }, {
+    "name": "kalimantan-utara",
+    "label": "Kalimantan Utara",
+    "regencies": [{
+      "name": "malinau",
+      "label": "Malinau"
+    }, {
+      "name": "bulungan",
+      "label": "Bulungan"
+    }, {
+      "name": "tana-tidung",
+      "label": "Tana Tidung"
+    }, {
+      "name": "nunukan",
+      "label": "Nunukan"
+    }, {
+      "name": "tarakan",
+      "label": "Tarakan"
+    }]
+  }, {
+    "name": "sulawesi-utara",
+    "label": "Sulawesi Utara",
+    "regencies": [{
+      "name": "bolaang-mongondow",
+      "label": "Bolaang Mongondow"
+    }, {
+      "name": "minahasa",
+      "label": "Minahasa"
+    }, {
+      "name": "kepulauan-sangihe",
+      "label": "Kepulauan Sangihe"
+    }, {
+      "name": "kepulauan-talaud",
+      "label": "Kepulauan Talaud"
+    }, {
+      "name": "minahasa-selatan",
+      "label": "Minahasa Selatan"
+    }, {
+      "name": "minahasa-utara",
+      "label": "Minahasa Utara"
+    }, {
+      "name": "bolaang-mongondow-utara",
+      "label": "Bolaang Mongondow Utara"
+    }, {
+      "name": "siau-tagulandang-biaro",
+      "label": "Siau Tagulandang Biaro"
+    }, {
+      "name": "minahasa-tenggara",
+      "label": "Minahasa Tenggara"
+    }, {
+      "name": "bolaang-mongondow-selatan",
+      "label": "Bolaang Mongondow Selatan"
+    }, {
+      "name": "bolaang-mongondow-timur",
+      "label": "Bolaang Mongondow Timur"
+    }, {
+      "name": "manado",
+      "label": "Manado"
+    }, {
+      "name": "bitung",
+      "label": "Bitung"
+    }, {
+      "name": "tomohon",
+      "label": "Tomohon"
+    }, {
+      "name": "kotamobagu",
+      "label": "Kotamobagu"
+    }]
+  }, {
+    "name": "sulawesi-tengah",
+    "label": "Sulawesi Tengah",
+    "regencies": [{
+      "name": "banggai-kepulauan",
+      "label": "Banggai Kepulauan"
+    }, {
+      "name": "banggai",
+      "label": "Banggai"
+    }, {
+      "name": "morowali",
+      "label": "Morowali"
+    }, {
+      "name": "poso",
+      "label": "Poso"
+    }, {
+      "name": "donggala",
+      "label": "Donggala"
+    }, {
+      "name": "toli-toli",
+      "label": "Toli Toli"
+    }, {
+      "name": "buol",
+      "label": "Buol"
+    }, {
+      "name": "parigi-moutong",
+      "label": "Parigi Moutong"
+    }, {
+      "name": "tojo-una-una",
+      "label": "Tojo Una Una"
+    }, {
+      "name": "sigi",
+      "label": "Sigi"
+    }, {
+      "name": "banggai-laut",
+      "label": "Banggai Laut"
+    }, {
+      "name": "morowali-utara",
+      "label": "Morowali Utara"
+    }, {
+      "name": "palu",
+      "label": "Palu"
+    }]
+  }, {
+    "name": "sulawesi-selatan",
+    "label": "Sulawesi Selatan",
+    "regencies": [{
+      "name": "kepulauan-selayar",
+      "label": "Kepulauan Selayar"
+    }, {
+      "name": "bulukumba",
+      "label": "Bulukumba"
+    }, {
+      "name": "bantaeng",
+      "label": "Bantaeng"
+    }, {
+      "name": "jeneponto",
+      "label": "Jeneponto"
+    }, {
+      "name": "takalar",
+      "label": "Takalar"
+    }, {
+      "name": "gowa",
+      "label": "Gowa"
+    }, {
+      "name": "sinjai",
+      "label": "Sinjai"
+    }, {
+      "name": "maros",
+      "label": "Maros"
+    }, {
+      "name": "pangkajene-dan-kepulauan",
+      "label": "Pangkajene Dan Kepulauan"
+    }, {
+      "name": "barru",
+      "label": "Barru"
+    }, {
+      "name": "bone",
+      "label": "Bone"
+    }, {
+      "name": "soppeng",
+      "label": "Soppeng"
+    }, {
+      "name": "wajo",
+      "label": "Wajo"
+    }, {
+      "name": "sidenreng-rappang",
+      "label": "Sidenreng Rappang"
+    }, {
+      "name": "pinrang",
+      "label": "Pinrang"
+    }, {
+      "name": "enrekang",
+      "label": "Enrekang"
+    }, {
+      "name": "luwu",
+      "label": "Luwu"
+    }, {
+      "name": "tana-toraja",
+      "label": "Tana Toraja"
+    }, {
+      "name": "luwu-utara",
+      "label": "Luwu Utara"
+    }, {
+      "name": "luwu-timur",
+      "label": "Luwu Timur"
+    }, {
+      "name": "toraja-utara",
+      "label": "Toraja Utara"
+    }, {
+      "name": "makassar",
+      "label": "Makassar"
+    }, {
+      "name": "parepare",
+      "label": "Parepare"
+    }, {
+      "name": "palopo",
+      "label": "Palopo"
+    }]
+  }, {
+    "name": "sulawesi-tenggara",
+    "label": "Sulawesi Tenggara",
+    "regencies": [{
+      "name": "buton",
+      "label": "Buton"
+    }, {
+      "name": "muna",
+      "label": "Muna"
+    }, {
+      "name": "konawe",
+      "label": "Konawe"
+    }, {
+      "name": "kolaka",
+      "label": "Kolaka"
+    }, {
+      "name": "konawe-selatan",
+      "label": "Konawe Selatan"
+    }, {
+      "name": "bombana",
+      "label": "Bombana"
+    }, {
+      "name": "wakatobi",
+      "label": "Wakatobi"
+    }, {
+      "name": "kolaka-utara",
+      "label": "Kolaka Utara"
+    }, {
+      "name": "buton-utara",
+      "label": "Buton Utara"
+    }, {
+      "name": "konawe-utara",
+      "label": "Konawe Utara"
+    }, {
+      "name": "kolaka-timur",
+      "label": "Kolaka Timur"
+    }, {
+      "name": "konawe-kepulauan",
+      "label": "Konawe Kepulauan"
+    }, {
+      "name": "muna-barat",
+      "label": "Muna Barat"
+    }, {
+      "name": "buton-tengah",
+      "label": "Buton Tengah"
+    }, {
+      "name": "buton-selatan",
+      "label": "Buton Selatan"
+    }, {
+      "name": "kendari",
+      "label": "Kendari"
+    }, {
+      "name": "baubau",
+      "label": "Baubau"
+    }]
+  }, {
+    "name": "gorontalo",
+    "label": "Gorontalo",
+    "regencies": [{
+      "name": "boalemo",
+      "label": "Boalemo"
+    }, {
+      "name": "gorontalo",
+      "label": "Gorontalo"
+    }, {
+      "name": "pohuwato",
+      "label": "Pohuwato"
+    }, {
+      "name": "bone-bolango",
+      "label": "Bone Bolango"
+    }, {
+      "name": "gorontalo-utara",
+      "label": "Gorontalo Utara"
+    }, {
+      "name": "gorontalo",
+      "label": "Gorontalo"
+    }]
+  }, {
+    "name": "sulawesi-barat",
+    "label": "Sulawesi Barat",
+    "regencies": [{
+      "name": "majene",
+      "label": "Majene"
+    }, {
+      "name": "polewali-mandar",
+      "label": "Polewali Mandar"
+    }, {
+      "name": "mamasa",
+      "label": "Mamasa"
+    }, {
+      "name": "mamuju",
+      "label": "Mamuju"
+    }, {
+      "name": "mamuju-utara",
+      "label": "Mamuju Utara"
+    }, {
+      "name": "mamuju-tengah",
+      "label": "Mamuju Tengah"
+    }]
+  }, {
+    "name": "maluku",
+    "label": "Maluku",
+    "regencies": [{
+      "name": "maluku-tenggara-barat",
+      "label": "Maluku Tenggara Barat"
+    }, {
+      "name": "maluku-tenggara",
+      "label": "Maluku Tenggara"
+    }, {
+      "name": "maluku-tengah",
+      "label": "Maluku Tengah"
+    }, {
+      "name": "buru",
+      "label": "Buru"
+    }, {
+      "name": "kepulauan-aru",
+      "label": "Kepulauan Aru"
+    }, {
+      "name": "seram-bagian-barat",
+      "label": "Seram Bagian Barat"
+    }, {
+      "name": "seram-bagian-timur",
+      "label": "Seram Bagian Timur"
+    }, {
+      "name": "maluku-barat-daya",
+      "label": "Maluku Barat Daya"
+    }, {
+      "name": "buru-selatan",
+      "label": "Buru Selatan"
+    }, {
+      "name": "ambon",
+      "label": "Ambon"
+    }, {
+      "name": "tual",
+      "label": "Tual"
+    }]
+  }, {
+    "name": "maluku-utara",
+    "label": "Maluku Utara",
+    "regencies": [{
+      "name": "halmahera-barat",
+      "label": "Halmahera Barat"
+    }, {
+      "name": "halmahera-tengah",
+      "label": "Halmahera Tengah"
+    }, {
+      "name": "kepulauan-sula",
+      "label": "Kepulauan Sula"
+    }, {
+      "name": "halmahera-selatan",
+      "label": "Halmahera Selatan"
+    }, {
+      "name": "halmahera-utara",
+      "label": "Halmahera Utara"
+    }, {
+      "name": "halmahera-timur",
+      "label": "Halmahera Timur"
+    }, {
+      "name": "pulau-morotai",
+      "label": "Pulau Morotai"
+    }, {
+      "name": "pulau-taliabu",
+      "label": "Pulau Taliabu"
+    }, {
+      "name": "ternate",
+      "label": "Ternate"
+    }, {
+      "name": "tidore-kepulauan",
+      "label": "Tidore Kepulauan"
+    }]
+  }, {
+    "name": "papua-barat",
+    "label": "Papua Barat",
+    "regencies": [{
+      "name": "fakfak",
+      "label": "Fakfak"
+    }, {
+      "name": "kaimana",
+      "label": "Kaimana"
+    }, {
+      "name": "teluk-wondama",
+      "label": "Teluk Wondama"
+    }, {
+      "name": "teluk-bintuni",
+      "label": "Teluk Bintuni"
+    }, {
+      "name": "manokwari",
+      "label": "Manokwari"
+    }, {
+      "name": "sorong-selatan",
+      "label": "Sorong Selatan"
+    }, {
+      "name": "sorong",
+      "label": "Sorong"
+    }, {
+      "name": "raja-ampat",
+      "label": "Raja Ampat"
+    }, {
+      "name": "tambrauw",
+      "label": "Tambrauw"
+    }, {
+      "name": "maybrat",
+      "label": "Maybrat"
+    }, {
+      "name": "manokwari-selatan",
+      "label": "Manokwari Selatan"
+    }, {
+      "name": "pegunungan-arfak",
+      "label": "Pegunungan Arfak"
+    }, {
+      "name": "sorong",
+      "label": "Sorong"
+    }]
+  }, {
+    "name": "papua",
+    "label": "Papua",
+    "regencies": [{
+      "name": "merauke",
+      "label": "Merauke"
+    }, {
+      "name": "jayawijaya",
+      "label": "Jayawijaya"
+    }, {
+      "name": "jayapura",
+      "label": "Jayapura"
+    }, {
+      "name": "nabire",
+      "label": "Nabire"
+    }, {
+      "name": "kepulauan-yapen",
+      "label": "Kepulauan Yapen"
+    }, {
+      "name": "biak-numfor",
+      "label": "Biak Numfor"
+    }, {
+      "name": "paniai",
+      "label": "Paniai"
+    }, {
+      "name": "puncak-jaya",
+      "label": "Puncak Jaya"
+    }, {
+      "name": "mimika",
+      "label": "Mimika"
+    }, {
+      "name": "boven-digoel",
+      "label": "Boven Digoel"
+    }, {
+      "name": "mappi",
+      "label": "Mappi"
+    }, {
+      "name": "asmat",
+      "label": "Asmat"
+    }, {
+      "name": "yahukimo",
+      "label": "Yahukimo"
+    }, {
+      "name": "pegunungan-bintang",
+      "label": "Pegunungan Bintang"
+    }, {
+      "name": "tolikara",
+      "label": "Tolikara"
+    }, {
+      "name": "sarmi",
+      "label": "Sarmi"
+    }, {
+      "name": "keerom",
+      "label": "Keerom"
+    }, {
+      "name": "waropen",
+      "label": "Waropen"
+    }, {
+      "name": "supiori",
+      "label": "Supiori"
+    }, {
+      "name": "mamberamo-raya",
+      "label": "Mamberamo Raya"
+    }, {
+      "name": "nduga",
+      "label": "Nduga"
+    }, {
+      "name": "lanny-jaya",
+      "label": "Lanny Jaya"
+    }, {
+      "name": "mamberamo-tengah",
+      "label": "Mamberamo Tengah"
+    }, {
+      "name": "yalimo",
+      "label": "Yalimo"
+    }, {
+      "name": "puncak",
+      "label": "Puncak"
+    }, {
+      "name": "dogiyai",
+      "label": "Dogiyai"
+    }, {
+      "name": "intan-jaya",
+      "label": "Intan Jaya"
+    }, {
+      "name": "deiyai",
+      "label": "Deiyai"
+    }, {
+      "name": "jayapura",
+      "label": "Jayapura"
+    }]
+  }]
+}

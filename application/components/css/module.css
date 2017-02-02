@@ -1,0 +1,123 @@
+.no-padding
+{
+	padding: 0px !important;
+}
+.padding-50
+{
+	padding: 50px;
+}
+.padding-bottom--20
+{
+	padding-bottom: 20px;
+}
+
+.no-margin
+{
+	margin: 0px !important;
+}
+.margin-top--10
+{
+	margin-top: 10px;
+}
+.margin-top--20
+{
+	margin-top: 20px;
+}
+.material-middle, .icons-middle, .material-icons.middle, .material-icons
+{
+	vertical-align: middle;
+}
+.no-float
+{
+	float: none !important;
+}
+.no-border
+{
+	border: none !important;
+}
+.list-group-flat
+{
+	border-radius: 0px;
+}
+.list-group-flat .list-group-item
+{
+	border-radius: 0px;
+}
+.divider
+{
+	margin-top: 7px;
+	margin-bottom: 7px;
+	border-top: 1px solid #aba9a9;
+}
+.view--hide
+{
+	display: none;
+}
+
+.material-icons-middle, .material-icons--middle
+{
+	vertical-align: middle;
+}
+	.icon-active
+	{
+		color: #4183D7;
+		/*background-color: white;*/
+	}
+	.icon-danger
+	{
+		color: #F64747;
+		/*background-color: white;*/
+	}
+.flat
+{
+	border-radius: 0px !important;
+} 
+
+.legend-group
+{
+	display: block;
+}
+.legend-item
+{
+	
+}
+.legend-item.inline{display: inline-block;}
+.legend-item.block{display: block;}
+.legend-item>.legend-symbol, .legend-item>.legend-description
+{
+	display: inline-block;
+}
+.legend-item .legend-symbol
+{
+	min-height: 10px;
+}
+
+.spinning {
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.flex
+{
+	display: flex !important;
+}
+.flex-center
+{
+	justify-content: center !important;
+}
+.flex-distributed
+{
+	align-items: center !important;
+}
+.flex-column
+{
+	flex-direction: column;
+}
+.block
+{
+	display: block !important;
+}
