@@ -35,6 +35,17 @@ class Users_model extends CI_Model
 		return $this->db->get();
 	}
 
+	public function data_faq($select, $where = array())
+	{
+		$this->db->select($select);
+		$this->db->from('faq');
+		if(count($where) > 0)
+		{
+			$this->db->where($where);
+		}
+		return $this->db->get();
+	}
+
 	public function data_master_userlevel($select, $where = array())
 	{
 		$this->db->select($select);
@@ -262,6 +273,12 @@ class Users_model extends CI_Model
 		return $this->db->insert_id();
 	}
 
+	public function insert_faq($data)
+	{
+		$this->db->insert('faq', $data);
+		return $this->db->insert_id();
+	}
+
 	/*
 	|
 	| U P D A T E 
@@ -272,5 +289,11 @@ class Users_model extends CI_Model
 	{
 		$this->db->where($where);
 		$this->db->update('users_level', $update); 
+	}
+
+	public function update_faq($update, $where)
+	{
+		$this->db->where($where);
+		$this->db->update('faq', $update); 
 	}
 }

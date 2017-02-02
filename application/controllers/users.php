@@ -114,6 +114,72 @@ class Users extends CI_Controller
 		}
 	}
 
+	public function user_faq()
+	{
+		if(!$this->isAjax)
+		{
+			$this->load->view('templates/head', array('title' => 'LSBBKKP Dashboard'));
+		}
+
+			$faq = $this->users_model->data_faq('*', array('faq_status' => 1))->result_array();
+			$this->load->view('users/faq/faq_list', array('faq' => $faq ));
+
+
+		if(!$this->isAjax)
+		{
+			$this->load->view('templates/footer');
+		}
+	}
+
+	public function faq_dashboard()
+	{
+		if(!$this->isAjax)
+		{
+			$this->load->view('templates/head', array('title' => 'LSBBKKP Dashboard'));
+		}
+
+			$faq = $this->users_model->data_faq('*')->result_array();
+			$this->load->view('users/faq/faq_list', array('faq' => $faq ));
+
+
+		if(!$this->isAjax)
+		{
+			$this->load->view('templates/footer');
+		}
+	}
+
+	public function user_faq_add()
+	{
+		if(!$this->isAjax)
+		{
+			$this->load->view('templates/head', array('title' => 'LSBBKKP Dashboard'));
+		}
+			$level = $this->users_model->data_master_userlevel('*')->result_array();
+
+			$this->load->view('users/faq/create_faq', array('level' => $level, 'faq' => array() ));
+
+		if(!$this->isAjax)
+		{
+			$this->load->view('templates/footer');
+		}
+	}
+
+	public function user_faq_edit($faq_id)
+	{
+		if(!$this->isAjax)
+		{
+			$this->load->view('templates/head', array('title' => 'LSBBKKP Dashboard'));
+		}
+			$level = $this->users_model->data_master_userlevel('*')->result_array();
+			$faq = $this->users_model->data_faq('*', array('id_faq' => $faq_id))->row_array();
+
+			$this->load->view('users/faq/create_faq', array('level' => $level, 'faq' => $faq ));
+
+		if(!$this->isAjax)
+		{
+			$this->load->view('templates/footer');
+		}
+	}
 
 
 	/*PROCESS ========================*/
@@ -333,6 +399,13 @@ EOF;
 		echo json_encode($data);
 	}
 
+	public function get_faqs()
+	{
+
+		$faq = $this->users_model->data_faq('*')->result_array();
+		echo json_encode($faq);
+	}
+
 	/*
 	|
 	| I N S E R T
@@ -346,6 +419,27 @@ EOF;
 				'userlevel_description' => $post['userlevel_description'],
 				'userlevel_redirect' => $post['userlevel_redirect']
 			));
+	}
+
+	public function save_new_faq()
+	{
+		$post = $this->input->post();
+		$data = array(
+				'faq_title' 	=> $post['faq-title'],
+				'faq_content' 	=> $post['faq-content'],
+				'faq_for' 		=> is_array($post['faq-for'])? implode(',', $post['faq-for']) : $post['faq-for'],
+				'faq_status' 	=> $post['faq-status'],
+				'faq_added_by' 	=> $_SESSION['id_users'].'.'.$_SESSION['level'],
+			);
+		if($post['faq-id'] > 0)
+		{
+			$this->users_model->update_faq($data, array('id_faq' => $post['faq-id']));
+			echo json_encode(array( 'status' => 'ok' ));
+		}else
+		{
+			$insert_id = $this->users_model->insert_faq($data);
+			echo json_encode(array( 'faq_id' => $insert_id ));
+		}
 	}
 
 	/*

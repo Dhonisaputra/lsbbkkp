@@ -59,9 +59,15 @@ $route['administrator/login'] 	= 'users/login';
 $route['login/forbidden'] 		= 'users/login_forbidden';
 $route['logout'] 				= 'users/logout';
 $route['users/new'] 			= 'users/create';
+$route['faq']					= 'users/user_faq';
+$route['faq/dashboard']			= 'users/faq_dashboard';
+$route['faq/new'] 				= 'users/user_faq_add';
+$route['faq/edit/(:num)']		= 'users/user_faq_edit/$1';
+$route['faq/open/(:num)']		= 'users/user_faq_open/$1';
 
 // P R O C E S S ------------------------------------------------------
 $route['users/process/add/user'] = 'users/add_user';
+$route['users/process/get/faqs'] = 'users/get_faqs';
 $route['users/process/authentication'] = 'users/authenticationLogin';
 // ---------------------------------------------------------------------
 
