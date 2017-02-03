@@ -14,6 +14,7 @@ CKEDITOR.editorConfig = function( config ) {
 	config.removePlugins = 'elementspath';
 	config.resize_enabled = false;
 	
+<<<<<<< HEAD
 	/*config.toolbarGroups = [
 		{ name: 'insert', groups: [ 'insert' ] },
 		{ name: 'links', groups: [ 'link', 'links', 'font' ] },
@@ -26,6 +27,13 @@ CKEDITOR.editorConfig = function( config ) {
 		{ name: 'clipboard', items: [ 'Cut', 'Copy', 'Paste', 'Undo', 'Redo', 'Font', 'FontSize', 'Format', 'PasteFromWord' ] },
 		{ name: 'basicstyles', items: [ 'Bold', 'Italic', 'Strike' ] },
 		{ name: 'paragraph', items: [ 'NumberedList', 'BulletedList', '-', 'Outdent', 'Indent', '-', 'Blockquote', '-', 'JustifyLeft', 'JustifyCenter', 'JustifyRight', 'JustifyBlock' ] }
+=======
+	config.toolbarGroups = [
+		{ name: 'insert', groups: [ 'insert' ] },
+		{ name: 'links', groups: [ 'link', 'links' ] },
+		{ name: 'basicstyles', groups: [ 'basicstyles', 'cleanup' ] },
+		{ name: 'paragraph', groups: [ 'list', 'indent', 'blocks', 'align', 'paragraph' ] }
+>>>>>>> dd0d86182aa752c47b9dd0e04dc669ab4e023b90
 	];
 
 
@@ -38,9 +46,12 @@ CKEDITOR.editorConfig = function( config ) {
 
 	// Simplify the dialog windows.
 	config.removeDialogTabs = 'image:advanced;link:advanced';
+<<<<<<< HEAD
 
 	config.extraPlugins = 'autogrow';
 	config.autoGrow_minHeight = 450;
 	config.autoGrow_maxHeight = 750;
 	// config.autoGrow_maxHeight = 1200;
+=======
+>>>>>>> dd0d86182aa752c47b9dd0e04dc669ab4e023b90
 };

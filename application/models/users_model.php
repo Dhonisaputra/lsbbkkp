@@ -35,6 +35,7 @@ class Users_model extends CI_Model
 		return $this->db->get();
 	}
 
+<<<<<<< HEAD
 	public function data_faq($select, $where = array())
 	{
 		$this->db->select($select);
@@ -46,6 +47,8 @@ class Users_model extends CI_Model
 		return $this->db->get();
 	}
 
+=======
+>>>>>>> dd0d86182aa752c47b9dd0e04dc669ab4e023b90
 	public function data_master_userlevel($select, $where = array())
 	{
 		$this->db->select($select);
@@ -273,12 +276,15 @@ class Users_model extends CI_Model
 		return $this->db->insert_id();
 	}
 
+<<<<<<< HEAD
 	public function insert_faq($data)
 	{
 		$this->db->insert('faq', $data);
 		return $this->db->insert_id();
 	}
 
+=======
+>>>>>>> dd0d86182aa752c47b9dd0e04dc669ab4e023b90
 	/*
 	|
 	| U P D A T E 
@@ -290,6 +296,7 @@ class Users_model extends CI_Model
 		$this->db->where($where);
 		$this->db->update('users_level', $update); 
 	}
+<<<<<<< HEAD
 
 	public function update_faq($update, $where)
 	{
@@ -306,4 +313,6 @@ class Users_model extends CI_Model
 	{
 		$this->db->delete('faq', $where); 
 	}
+=======
+>>>>>>> dd0d86182aa752c47b9dd0e04dc669ab4e023b90
 }

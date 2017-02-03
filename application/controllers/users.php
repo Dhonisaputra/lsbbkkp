@@ -114,6 +114,7 @@ class Users extends CI_Controller
 		}
 	}
 
+<<<<<<< HEAD
 	public function user_faq()
 	{
 		if(!$this->isAjax)
@@ -196,6 +197,8 @@ class Users extends CI_Controller
 			$this->load->view('templates/footer');
 		}
 	}
+=======
+>>>>>>> dd0d86182aa752c47b9dd0e04dc669ab4e023b90
 
 
 	/*PROCESS ========================*/
@@ -415,6 +418,7 @@ EOF;
 		echo json_encode($data);
 	}
 
+<<<<<<< HEAD
 	public function get_faqs()
 	{
 
@@ -422,6 +426,8 @@ EOF;
 		echo json_encode($faq);
 	}
 
+=======
+>>>>>>> dd0d86182aa752c47b9dd0e04dc669ab4e023b90
 	/*
 	|
 	| I N S E R T
@@ -437,6 +443,7 @@ EOF;
 			));
 	}
 
+<<<<<<< HEAD
 	public function save_new_faq()
 	{
 		$post = $this->input->post();
@@ -458,6 +465,8 @@ EOF;
 		}
 	}
 
+=======
+>>>>>>> dd0d86182aa752c47b9dd0e04dc669ab4e023b90
 	/*
 	|
 	| U P D A T E
@@ -469,6 +478,7 @@ EOF;
 		$this->users_model->update_master_level($post['update'], $post['where']);
 	}
 
+<<<<<<< HEAD
 	/*
 	|
 	| D E L E T E
@@ -479,4 +489,6 @@ EOF;
 		$post = $this->input->post();
 		$this->users_model->remove_faq(array('id_faq' => $post['id_faq']));
 	}
+=======
+>>>>>>> dd0d86182aa752c47b9dd0e04dc669ab4e023b90
 }
