@@ -296,4 +296,14 @@ class Users_model extends CI_Model
 		$this->db->where($where);
 		$this->db->update('faq', $update); 
 	}
+
+	/*
+	|
+	| D E L E T E 
+	|
+	*/
+	public function remove_faq($where)
+	{
+		$this->db->delete('faq', $where); 
+	}
 }

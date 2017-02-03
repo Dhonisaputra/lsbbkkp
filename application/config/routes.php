@@ -68,6 +68,7 @@ $route['faq/open/(:num)']		= 'users/user_faq_open/$1';
 // P R O C E S S ------------------------------------------------------
 $route['users/process/add/user'] = 'users/add_user';
 $route['users/process/get/faqs'] = 'users/get_faqs';
+$route['users/process/remove/faq'] = 'users/remove_faq';
 $route['users/process/authentication'] = 'users/authenticationLogin';
 // ---------------------------------------------------------------------
 

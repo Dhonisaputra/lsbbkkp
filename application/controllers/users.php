@@ -118,7 +118,7 @@ class Users extends CI_Controller
 	{
 		if(!$this->isAjax)
 		{
-			$this->load->view('templates/head', array('title' => 'LSBBKKP Dashboard'));
+			$this->load->view('templates/headsource', array('title' => 'LSBBKKP Dashboard'));
 		}
 
 			$faq = $this->users_model->data_faq('*', array('faq_status' => 1))->result_array();
@@ -127,7 +127,23 @@ class Users extends CI_Controller
 
 		if(!$this->isAjax)
 		{
-			$this->load->view('templates/footer');
+		}
+	}
+
+	function user_faq_open($faq_id)
+	{
+		if(!$this->isAjax)
+		{
+			$this->load->view('templates/headsource', array('title' => 'LSBBKKP Dashboard'));
+		}
+			$level = $this->users_model->data_master_userlevel('*')->result_array();
+			$faq = $this->users_model->data_faq('*', array('id_faq' => $faq_id))->row_array();
+
+			$this->load->view('users/faq/open_faq', array('level' => $level, 'faq' => $faq ));
+			$this->load->view('users/faq/faq_footer');
+
+		if(!$this->isAjax)
+		{
 		}
 	}
 
@@ -453,4 +469,14 @@ EOF;
 		$this->users_model->update_master_level($post['update'], $post['where']);
 	}
 
+	/*
+	|
+	| D E L E T E
+	|
+	*/
+	public function remove_faq()
+	{
+		$post = $this->input->post();
+		$this->users_model->remove_faq(array('id_faq' => $post['id_faq']));
+	}
 }

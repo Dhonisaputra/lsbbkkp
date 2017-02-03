@@ -1,6 +1,10 @@
 <?php echo $this->load->component('js', 'plugins/ckeditor/ckeditor.js') ?>
 <?php echo $this->load->component('js', 'plugins/ckeditor/adapters/jquery.js') ?>
 
+<div class="form-group">
+	<a href="<?php echo site_url('faq/new') ?>" class="btn btn-primary" target="_blank"> Tambah baru </a>
+</div>
+
 <fieldset class="">
 	<legend>Buat FaQ baru</legend>
 	<div class="alert-place"></div>
@@ -75,6 +79,7 @@
 		
 
 		$('textarea').ckeditor();
+		$('textarea').focus();
 
 		$('textarea').ckeditorGet().on('key', function(e) {
 			var val = $('textarea').val();

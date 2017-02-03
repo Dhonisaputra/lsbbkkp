@@ -67,7 +67,7 @@
                 <?php } ?>
                 <a class="mdl-navigation__link " href="<?php echo site_url("logout") ?>"><i class="mdl-color-text--blue-grey-400 material-icons" role="presentation">lock_outline</i>Logout</a>
                 <div class="mdl-layout-spacer"></div>
-                <a class="mdl-navigation__link" href="<?php echo site_url('faq') ?>"><i class="mdl-color-text--blue-grey-400 material-icons" role="presentation">help_outline</i><span class="visuallyhidden">Help</span></a>
+                <a class="mdl-navigation__link" href="<?php echo site_url('faq') ?>" target="_blank"><i class="mdl-color-text--blue-grey-400 material-icons" role="presentation">help_outline</i><span class="visuallyhidden">Help</span></a>
             </nav>
 
         </div>
